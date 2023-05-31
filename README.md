@@ -12,3 +12,4 @@ inputs
 exit status
 quotes
 redicectors
+sed editor
