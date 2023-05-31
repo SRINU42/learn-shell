@@ -1,5 +1,14 @@
 # learn-shell
-# print
-command
-shell scripting
-new idea
+
+Topics of shell scripting
+
+comments
+printing
+variables
+functions
+conditions
+loops
+inputs
+exit status
+quotes
+redicectors
