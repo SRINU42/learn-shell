@@ -1,7 +1,7 @@
 #To print a message we are using echo
 echo hello world
 #print a colour
-echo -e "\e[31m this is red colour \e[0m"
+echo -e "\e[33m this is red colour \e[0m"
 echo -e "\e[32m this is green colour \e[0m"
 echo -e "\e[33m this is yellow colour \e[0m"
 echo -e "\e[34m this is blue colour \e[0m"
